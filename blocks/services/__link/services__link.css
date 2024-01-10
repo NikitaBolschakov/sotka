@@ -1,0 +1,8 @@
+.services__link {
+    display: flex;
+    text-decoration: none;
+    position: absolute;
+    right: 18px;
+    bottom: 14px;
+    margin: 0;
+}

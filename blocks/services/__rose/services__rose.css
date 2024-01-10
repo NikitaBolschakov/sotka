@@ -1,0 +1,7 @@
+@media (max-width: 990px) {
+    .services__rose {
+        display: block;
+        width: 198px;
+        margin: 0 auto;
+    }
+}

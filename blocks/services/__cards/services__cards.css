@@ -1,0 +1,15 @@
+.services__cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1120px;
+    min-height: 443px;
+}
+
+@media (max-width: 990px) {
+    .services__cards {
+        flex-direction: column;
+        align-items: center;
+    }
+}

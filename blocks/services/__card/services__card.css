@@ -1,0 +1,20 @@
+.services__card {
+    width: 330px;
+    position: relative;
+}
+
+@media (max-width: 990px) {
+    .services__card {
+        min-height: 423px;
+        margin: 0 15px 50px;
+    }
+
+    .services__card:first-of-type {
+        order: 2;
+    }
+
+    .services__card:last-of-type {
+        margin-bottom: 0;
+        order: 3;
+    }
+}

@@ -1,0 +1,11 @@
+.services__link-text {
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: -0.06em;
+    text-align: left;
+    color: rgba(236, 85, 152, 1);
+    text-decoration: none;
+    margin: 0;
+}
