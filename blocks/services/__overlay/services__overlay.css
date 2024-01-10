@@ -9,7 +9,7 @@
     box-shadow: 0px 15px 55px 0px rgba(0, 0, 0, 0.08);
 }
 
-@media (max-width: 990px) {
+@media (max-width: 1010px) {
     .services__overlay {
         left: 0;
     }

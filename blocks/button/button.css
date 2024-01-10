@@ -16,7 +16,7 @@
     cursor: pointer;
 }
 
-@media (max-width: 990px) {
+@media (max-width: 1010px) {
     .button {
         margin: 40px auto 15px;
     }
